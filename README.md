@@ -26,4 +26,6 @@ java -jar out/artifacts/ejer_cronJob_jar/ejer_cronJob.jar src/main/java/domain/a
 ```
 
 ## Output
+Funcionamiento del Writer
 
+![outPutCronJob](https://github.com/mgerezqa/ejer_cronJob/assets/54424951/017b6e72-3203-4831-ad9e-2b71b76bed55)
